@@ -39,7 +39,7 @@ _El S&P_ 500 es ampliamente utilizado como un indicador del desempeño general d
 
   - Crisis de opioides: En los últimos años, la industria farmacéutica ha estado en el centro de una crisis de opioides en los Estados Unidos. Esto ha llevado a un mayor escrutinio de la industria y a un mayor énfasis en la seguridad y la eficacia de los medicamentos recetados.
 
--
+  - Surgimiento del COVID-19 y declarada pandemia mundial el 30 de enero de 2020, uno de sus efectos principales sobre el sector farmaceutico fue la redistribución de sus recursos para incrementar la capacidad de producción de medicamentos críticos para los pacientes que padecen la enfermedad y dinamizar la búsqueda de nuevos tratamientos y vacunas contra ella.
 
 
 # _Empresas de ejemplo usadas de la industria farmaceutica:_ 
@@ -63,7 +63,7 @@ _El S&P_ 500 es ampliamente utilizado como un indicador del desempeño general d
 
 ### __Paginas con informacion extra:__
 [__IFPMA__ (Federación Internacional de la Industria Farmacéutica) ](https://ifpma.org/)  
-[__OCDE__ (Organización para la Cooperación y el Desarrollo Económico)) ](https://www.oecd.org/els/health-systems/pharmaceuticals.htm)
+[__OCDE__ (Organización para la Cooperación y el Desarrollo Económico)) ](https://www.oecd.org/els/health-systems/pharmaceuticals.htm)  
 [__OMS__ (Organización Mundial de la Salud)) ](https://www.who.int/es)
 
 ## __Forecasting Model prediction:__  📈  
