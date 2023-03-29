@@ -77,13 +77,14 @@ Entre los medicamentos más conocidos desarrollados por Pfizer se incluyen Lipit
 
 Pfizer ha sido reconocida por su compromiso con la investigación y el desarrollo de nuevos medicamentos, y por su capacidad para llevar estos productos al mercado de manera efectiva. La compañía ha estado involucrada en varias iniciativas de salud global, incluyendo programas de lucha contra el VIH/SIDA y la malaria.
 
-![image3](Materials/forecasting.png)
+
+<img src="Materials/forecasting.jpg" alt="image3" width="50%">
 
 ### __Y = representa el precio de cierre ajustado de la acción de Pfizer (PFE).__
 
 ### __ds = La columna ds representa la variable de fecha, que se utiliza para identificar la fecha a la que se refiere cada valor en la columna y.__
 
-__....................................................................................................................................................................................................__  
+__.....................................................................................................................................__  
 -  
 
 ![image2](Materials/vision.edu_.my_.jpg)
